@@ -1,1 +1,1 @@
-# laboratornaya-rabota-4-znakomstvo-s-prolog-vikulova-1999
+# laboratornaya-rabota-4-znakomstvo-s-prolog
